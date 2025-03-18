@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/global-value-chains-visualization/static/css/main.90f1bd35.css",
+    "main.js": "/global-value-chains-visualization/static/js/main.c2214857.js",
+    "index.html": "/global-value-chains-visualization/index.html",
+    "main.90f1bd35.css.map": "/global-value-chains-visualization/static/css/main.90f1bd35.css.map",
+    "main.c2214857.js.map": "/global-value-chains-visualization/static/js/main.c2214857.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90f1bd35.css",
+    "static/js/main.c2214857.js"
+  ]
+}
