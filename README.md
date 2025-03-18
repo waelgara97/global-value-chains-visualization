@@ -22,8 +22,7 @@ This visualization maps the flow of goods and services across major global regio
 
 This visualization is built using:
 - React for the UI components
-- D3.js for geographical data processing
-- Recharts for mapping components
+- SVG for the map rendering
 - Tailwind CSS for styling
 
 ## Data
