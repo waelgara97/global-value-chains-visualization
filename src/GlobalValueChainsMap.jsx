@@ -1,6 +1,4 @@
 import React, { useState } from 'react';
-import { ComposableMap, Geographies, Geography, Line, Marker } from 'recharts';
-import * as d3 from 'd3';
 
 // Define regions with their center coordinates (approximate)
 const regions = {
